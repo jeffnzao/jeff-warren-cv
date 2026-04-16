@@ -1,0 +1,339 @@
+{
+  "personal": {
+    "name": "Jeff Warren NZAO BEDIAKO",
+    "title": {
+      "fr": "Consultant Technique ServiceNow",
+      "en": "Technical ServiceNow Consultant"
+    },
+    "tagline": {
+      "fr": "Expert ITSM, développeur et architecte de solutions ServiceNow innovantes",
+      "en": "ITSM Expert, developer and architect of innovative ServiceNow solutions"
+    },
+    "availability": {
+      "fr": "En poste — ouvert aux opportunités",
+      "en": "Currently employed — open to opportunities"
+    },
+    "email": "jeffnzao@gmail.com",
+    "phone": "+33 7 55 37 93 49",
+    "location": "Villeneuve-Saint-Georges, 94190, France",
+    "linkedin": "https://www.linkedin.com/in/jeff-w-nzao-b",
+    "github": "https://github.com/jeffnzao",
+    "linktree": "https://linktr.ee/jeffwarren_nb",
+    "photo": "/photo.jpg"
+  },
+  "about": {
+    "fr": [
+      "Consultant Technique ServiceNow avec une expérience significative dans plusieurs secteurs : Santé, Banque et Énergie.",
+      "Chez Guerbet (Santé), j'ai occupé le rôle d'Administrateur/Développeur ServiceNow, principalement sur des missions ITSM. Chez BNP Paribas (Banque), j'intervenais sur l'évolution de la plateforme, la gestion des demandes, incidents, problèmes et changements.",
+      "Dans le secteur de l'Énergie, chez EDF et EDF Renouvelables, j'ai participé à des projets d'implémentation et d'évolution de la solution ServiceNow. Actuellement chez SUEZ, je contribue au développement CMDB et à la gouvernance des données dans un contexte Scrum Agile.",
+      "Sociable, à l'écoute, doté d'un bon esprit d'équipe, curieux et impliqué. J'aime partager mes expériences et relever de nouveaux défis."
+    ],
+    "en": [
+      "Technical ServiceNow Consultant with significant experience across multiple sectors: Healthcare, Banking, and Energy.",
+      "At Guerbet (Healthcare), I served as a ServiceNow Admin/Developer, focused on ITSM. At BNP Paribas (Banking), I contributed to platform evolution and the management of requests, incidents, problems, and changes.",
+      "In the Energy sector at EDF and EDF Renewables, I participated in ServiceNow implementation and evolution projects. Currently at SUEZ, I contribute to CMDB development and data governance in an Agile Scrum environment.",
+      "Sociable, attentive, team-oriented, curious, and committed. I enjoy sharing experiences and taking on new challenges."
+    ],
+    "stats": [
+      { "number": "4+", "label": { "fr": "Secteurs d'expertise", "en": "Sectors of expertise" } },
+      { "number": "3+", "label": { "fr": "Années d'expérience SN", "en": "Years of SN experience" } },
+      { "number": "4+", "label": { "fr": "Projets majeurs", "en": "Major projects" } }
+    ]
+  },
+  "skills": [
+    {
+      "title": "ServiceNow Platform",
+      "description": {
+        "fr": "Expertise complète : ITSM, CMDB, CSDM, workflows, catalogues, ACL, Transform Maps, Data Sources.",
+        "en": "Full expertise: ITSM, CMDB, CSDM, workflows, catalogs, ACL, Transform Maps, Data Sources."
+      },
+      "tags": ["ITSM", "CMDB", "CSDM", "Workflows", "ACL", "Transform Maps"],
+      "icon": "layers"
+    },
+    {
+      "title": { "fr": "Développement Full-Stack", "en": "Full-Stack Development" },
+      "description": {
+        "fr": "Applications web modernes avec frameworks actuels et architectures logicielles robustes.",
+        "en": "Modern web applications with current frameworks and robust software architectures."
+      },
+      "tags": ["JavaScript", "Python", "PHP", "VueJS", "C#", "Java"],
+      "icon": "code"
+    },
+    {
+      "title": "Frameworks & CMS",
+      "description": {
+        "fr": "Applications scalables avec Symfony, Django, SpringBoot. Expérience CMS pour solutions rapides.",
+        "en": "Scalable applications with Symfony, Django, SpringBoot. CMS experience for rapid solutions."
+      },
+      "tags": ["Symfony", "Django", "SpringBoot", "WordPress", "Shopify"],
+      "icon": "box"
+    },
+    {
+      "title": { "fr": "Bases de Données", "en": "Databases" },
+      "description": {
+        "fr": "Conception, optimisation et gestion de BDD relationnelles. Modélisation et requêtes SQL complexes.",
+        "en": "Design, optimization and management of relational databases. Modeling and complex SQL queries."
+      },
+      "tags": ["PostgreSQL", "MySQL", "SQL Server"],
+      "icon": "database"
+    },
+    {
+      "title": { "fr": "Méthodologies & ITIL", "en": "Methodologies & ITIL" },
+      "description": {
+        "fr": "Bonnes pratiques ITIL et méthodologies agiles. Gouvernance des données et standardisation d'instance.",
+        "en": "ITIL best practices and agile methodologies. Data governance and instance standardization."
+      },
+      "tags": ["ITIL", "Scrum", "Agile", "MVC", "Méthode V"],
+      "icon": "settings"
+    },
+    {
+      "title": { "fr": "Outils & DevOps", "en": "Tools & DevOps" },
+      "description": {
+        "fr": "Outils de développement moderne et pratiques DevOps pour automatisation et collaboration.",
+        "en": "Modern development tools and DevOps practices for automation and collaboration."
+      },
+      "tags": ["Git/GitLab", "Docker", "IntelliJ IDEA", "Visual Studio", "Eclipse"],
+      "icon": "tool"
+    }
+  ],
+  "experiences": [
+    {
+      "date": { "fr": "Mars 2026 - Aujourd'hui", "en": "March 2026 - Present" },
+      "title": { "fr": "Consultant Technique ServiceNow", "en": "Technical ServiceNow Consultant" },
+      "company": "YUNIT - Magellan Partners | SUEZ",
+      "location": "Paris, France",
+      "current": true,
+      "context": {
+        "fr": "Équipe Plateforme & SDM — Scrum Agile. PO : Anthony Crevieux. Architecte technique : Audrey.",
+        "en": "Platform & SDM team — Scrum Agile. PO: Anthony Crevieux. Technical Architect: Audrey."
+      },
+      "missions": {
+        "fr": [
+          "Développeur CMDB — Projet BUILD (modélisation, peuplement, gouvernance des données CI)",
+          "Gestionnaire MCO — maintien en condition opérationnelle de la plateforme",
+          "Contribution à la CSDM (Common Service Data Model) et à la Data Foundation",
+          "Gestion des rôles, groupes et standardisation de l'instance ServiceNow",
+          "Collaboration en Feature Team Build + MCO dans un cadre Agile Scrum"
+        ],
+        "en": [
+          "CMDB Developer — BUILD project (modeling, population, CI data governance)",
+          "MCO Manager — operational maintenance of the platform",
+          "Contribution to CSDM (Common Service Data Model) and Data Foundation",
+          "Roles, groups management and ServiceNow instance standardization",
+          "Feature Team collaboration (Build + MCO) within an Agile Scrum framework"
+        ]
+      },
+      "tags": ["CMDB", "CSDM", "BUILD", "MCO", "Scrum"]
+    },
+    {
+      "date": { "fr": "Juin 2025 - Décembre 2025", "en": "June 2025 - December 2025" },
+      "title": { "fr": "Consultant Technique ServiceNow", "en": "Technical ServiceNow Consultant" },
+      "company": "YUNIT - Magellan Partners | Total Energies",
+      "location": "Paris, France",
+      "current": false,
+      "missions": {
+        "fr": [
+          "Appui RUN — support et maintenance de la plateforme ServiceNow",
+          "Missions transverses SNOW — coordination inter-équipes"
+        ],
+        "en": [
+          "RUN support — maintenance and support of the ServiceNow platform",
+          "Cross-functional SNOW missions — inter-team coordination"
+        ]
+      },
+      "tags": ["RUN", "Support", "ServiceNow"]
+    },
+    {
+      "date": { "fr": "Avril 2025 - Juin 2025", "en": "April 2025 - June 2025" },
+      "title": { "fr": "Consultant Technique ServiceNow", "en": "Technical ServiceNow Consultant" },
+      "company": "YUNIT - Magellan Partners | EDF Renouvelables",
+      "location": "Paris, France",
+      "current": false,
+      "missions": {
+        "fr": [
+          "Contribution à l'implémentation complète de la solution ServiceNow",
+          "Configuration initiale : utilisateurs, rôles, groupes, référentiels, ACL",
+          "Paramétrage des modules Incident Management et Request Management (ITIL)",
+          "Création des catalogues de services et des workflows associés",
+          "Import et structuration des données (Transform Maps, Data Sources, Load Data)",
+          "Collaboration étroite avec les équipes métiers et techniques"
+        ],
+        "en": [
+          "Contribution to the complete ServiceNow solution implementation",
+          "Initial configuration: users, roles, groups, repositories, ACL",
+          "Incident Management and Request Management modules setup (ITIL)",
+          "Service catalog and associated workflows creation",
+          "Data import and structuring (Transform Maps, Data Sources, Load Data)",
+          "Close collaboration with business and technical teams"
+        ]
+      },
+      "tags": ["ServiceNow", "ITSM", "ITIL", "Implémentation"]
+    },
+    {
+      "date": { "fr": "Août 2024 - Mars 2025", "en": "August 2024 - March 2025" },
+      "title": { "fr": "Consultant Technique ServiceNow", "en": "Technical ServiceNow Consultant" },
+      "company": "YUNIT - Magellan Partners | EDF (ITZMI & WIZMI)",
+      "location": "Paris, France",
+      "current": false,
+      "missions": {
+        "fr": [
+          "Participation à des projets RUN (maintenance et support) et BUILD (nouvelles fonctionnalités)",
+          "Gestion des demandes et des incidents sur les plateformes ITZMI et WIZMI",
+          "Rédaction de spécifications techniques et fonctionnelles",
+          "Rédaction de cahiers de recette et de documentations projet"
+        ],
+        "en": [
+          "RUN (maintenance & support) and BUILD (new features) projects on ITZMI & WIZMI platforms",
+          "Request and incident management",
+          "Technical and functional specifications writing",
+          "Test plans and project documentation"
+        ]
+      },
+      "tags": ["RUN & BUILD", "EDF", "Documentation"]
+    },
+    {
+      "date": { "fr": "Octobre 2023 - Mai 2024", "en": "October 2023 - May 2024" },
+      "title": { "fr": "Consultant Junior Technique ServiceNow", "en": "Junior Technical ServiceNow Consultant" },
+      "company": "DREAM IT BY ASTEK | BNP Paribas",
+      "location": "Montreuil, France",
+      "current": false,
+      "missions": {
+        "fr": [
+          "Développement et évolution des fonctionnalités sur la plateforme ServiceNow",
+          "Respect des bonnes pratiques et des capacités natives de ServiceNow",
+          "Création et modification de catalogues de services",
+          "Gestion des ACL (contrôles d'accès) et des Transform Maps"
+        ],
+        "en": [
+          "Feature development and evolution on the ServiceNow platform",
+          "Compliance with ServiceNow best practices and native capabilities",
+          "Service catalog creation and modification",
+          "ACL and Transform Maps management"
+        ]
+      },
+      "tags": ["ServiceNow", "ACL", "Développement"]
+    },
+    {
+      "date": { "fr": "Décembre 2022 - Octobre 2023", "en": "December 2022 - October 2023" },
+      "title": { "fr": "Alternant Administrateur / Développeur ServiceNow", "en": "ServiceNow Admin/Developer (Apprenticeship)" },
+      "company": "GUERBET",
+      "location": "Villepinte, France",
+      "current": false,
+      "missions": {
+        "fr": [
+          "Développement de fonctionnalités et personnalisation des workflows",
+          "Gestion des groupes et utilisateurs dans le respect du cadre natif ServiceNow",
+          "Mise en place du catalogue de services et modification du portail utilisateur",
+          "Rédaction de spécifications techniques et fonctionnelles, cahiers de recette et documentations"
+        ],
+        "en": [
+          "Feature development and workflow customization",
+          "Groups and users management within ServiceNow native framework",
+          "Service catalog setup and user portal customization",
+          "Technical and functional specs, test plans and documentation"
+        ]
+      },
+      "tags": ["Alternance", "Workflows", "ITSM"]
+    }
+  ],
+  "projects": [
+    {
+      "title": { "fr": "CMDB & CSDM — SUEZ", "en": "CMDB & CSDM — SUEZ" },
+      "description": {
+        "fr": "Développement CMDB en projet BUILD : modélisation des CI, peuplement, gouvernance des données et alignement CSDM. Standardisation de l'instance et gestion des rôles en contexte Agile Scrum.",
+        "en": "CMDB BUILD project: CI modeling, population, data governance and CSDM alignment. Instance standardization and roles management in an Agile Scrum context."
+      },
+      "tags": ["CMDB", "CSDM", "Data Foundation", "Scrum", "BUILD"],
+      "category": "servicenow",
+      "github": null,
+      "demo": null,
+      "icon": "database"
+    },
+    {
+      "title": { "fr": "Implémentation ServiceNow — EDF Renouvelables", "en": "ServiceNow Implementation — EDF Renewables" },
+      "description": {
+        "fr": "Mise en place complète d'une instance ServiceNow : configuration système, ITSM (Incident & Request), catalogues de services, workflows complexes et import de données (Transform Maps).",
+        "en": "Full ServiceNow instance setup: system configuration, ITSM (Incident & Request), service catalogs, complex workflows and data import (Transform Maps)."
+      },
+      "tags": ["ServiceNow", "ITSM", "ITIL", "Transform Maps"],
+      "category": "servicenow",
+      "github": null,
+      "demo": null,
+      "icon": "clock"
+    },
+    {
+      "title": { "fr": "Évolution Plateforme — BNP Paribas", "en": "Platform Evolution — BNP Paribas" },
+      "description": {
+        "fr": "Développement de nouvelles fonctionnalités sur la plateforme ServiceNow de BNP Paribas : catalogues personnalisés, gestion avancée des ACL et optimisation des imports de données via Transform Maps.",
+        "en": "New feature development on BNP Paribas' ServiceNow platform: custom catalogs, advanced ACL management and data import optimization via Transform Maps."
+      },
+      "tags": ["ServiceNow", "JavaScript", "ACL", "Transform Maps"],
+      "category": "servicenow",
+      "github": null,
+      "demo": null,
+      "icon": "box"
+    },
+    {
+      "title": { "fr": "Plateformes ITZMI/WIZMI — EDF", "en": "ITZMI/WIZMI Platforms — EDF" },
+      "description": {
+        "fr": "Maintenance et évolution de plateformes ServiceNow critiques pour EDF. Projets RUN (support, incidents) et BUILD (nouvelles fonctionnalités), avec rédaction des spécifications et cahiers de recette.",
+        "en": "Maintenance and evolution of critical ServiceNow platforms for EDF. RUN (support, incidents) and BUILD (new features) projects, including specifications and test plans."
+      },
+      "tags": ["RUN", "BUILD", "EDF", "Documentation"],
+      "category": "servicenow",
+      "github": null,
+      "demo": null,
+      "icon": "layers"
+    },
+    {
+      "title": { "fr": "Administration ITSM — Guerbet", "en": "ITSM Administration — Guerbet" },
+      "description": {
+        "fr": "En alternance chez Guerbet (secteur Santé) : développement de fonctionnalités ServiceNow, personnalisation des workflows, mise en place du catalogue de services et du portail utilisateur.",
+        "en": "Apprenticeship at Guerbet (Healthcare): ServiceNow feature development, workflow customization, service catalog and user portal setup."
+      },
+      "tags": ["ServiceNow", "ITSM", "Workflows", "Alternance"],
+      "category": "servicenow",
+      "github": null,
+      "demo": null,
+      "icon": "settings"
+    }
+  ],
+  "education": [
+    {
+      "date": "2022 - 2023",
+      "degree": { "fr": "Expert en Systèmes d'Information et Sécurité", "en": "Expert in Information Systems & Security" },
+      "school": "ESIC — Malakoff",
+      "description": { "fr": "Titre certifié niveau 7 inscrit au RNCP", "en": "RNCP Level 7 certified title" }
+    },
+    {
+      "date": "2020 - 2022",
+      "degree": { "fr": "Analyste Informaticien — Développeur Web et Applicatif (DAI)", "en": "IT Analyst — Web & Application Developer (DAI)" },
+      "school": "ScholaNova — Paris",
+      "description": { "fr": "Paris, France", "en": "Paris, France" }
+    },
+    {
+      "date": "2017 - 2020",
+      "degree": { "fr": "DUT Génie Électrique et Informatique Industrielle (GEII)", "en": "DUT Electrical Engineering & Industrial IT (GEII)" },
+      "school": "IUT — Troyes",
+      "description": { "fr": "Troyes, France", "en": "Troyes, France" }
+    },
+    {
+      "date": "2017",
+      "degree": { "fr": "Baccalauréat STI — Série SI (Sciences de l'Ingénieur)", "en": "STI Baccalaureate — Engineering Sciences (SI)" },
+      "school": "LTNOB — Owendo",
+      "description": { "fr": "Owendo, Gabon", "en": "Owendo, Gabon" }
+    }
+  ],
+  "languages": [
+    { "lang": "Français", "level": { "fr": "Langue maternelle", "en": "Native" } },
+    { "lang": "Anglais", "level": { "fr": "Niveau intermédiaire", "en": "Intermediate" } }
+  ],
+  "hobbies": {
+    "fr": ["Musique — Compositeur, artiste", "Sport — Football, Basketball"],
+    "en": ["Music — Composer, artist", "Sports — Football, Basketball"]
+  },
+  "nav": {
+    "fr": ["Accueil", "À propos", "Compétences", "Expériences", "Projets", "Contact"],
+    "en": ["Home", "About", "Skills", "Experience", "Projects", "Contact"]
+  }
+}

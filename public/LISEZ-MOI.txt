@@ -1,0 +1,10 @@
+Ce dossier contient les fichiers statiques publics.
+
+Fichiers à ajouter :
+- photo.jpg        → Votre photo de profil (400x400px recommandé)
+- cv-jeff-warren.pdf → Votre CV en PDF (téléchargeable depuis la navbar)
+- favicon.ico      → L'icône de l'onglet navigateur (optionnel)
+
+Ces fichiers sont accessibles directement via l'URL :
+- https://votre-site.vercel.app/photo.jpg
+- https://votre-site.vercel.app/cv-jeff-warren.pdf
