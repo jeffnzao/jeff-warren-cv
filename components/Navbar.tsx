@@ -98,12 +98,12 @@ export default function Navbar({ lang, onToggleLang, data }: NavbarProps) {
             {lang === 'fr' ? '🇫🇷 FR' : '🇬🇧 EN'}
           </button>
           <a
-            href="/cv-jeff-warren.pdf"
-            download
+            href={lang === 'fr' ? '/cv-fr.pdf' : '/cv-en.pdf'}
+            download={lang === 'fr' ? 'CV-JeffWarren-FR.pdf' : 'CV-JeffWarren-EN.pdf'}
             className="flex items-center gap-2 px-4 py-1.5 text-sm font-medium bg-primary-600 hover:bg-primary-500 text-white rounded-lg transition-all"
           >
             <Download size={15} />
-            CV
+            {lang === 'fr' ? 'CV' : 'CV'}
           </a>
         </div>
 
@@ -140,8 +140,8 @@ export default function Navbar({ lang, onToggleLang, data }: NavbarProps) {
               {lang === 'fr' ? '🇫🇷 FR' : '🇬🇧 EN'}
             </button>
             <a
-              href="/cv-jeff-warren.pdf"
-              download
+              href={lang === 'fr' ? '/cv-fr.pdf' : '/cv-en.pdf'}
+              download={lang === 'fr' ? 'CV-JeffWarren-FR.pdf' : 'CV-JeffWarren-EN.pdf'}
               className="flex-1 flex items-center justify-center gap-2 py-2 text-sm bg-primary-600 text-white rounded-lg"
             >
               <Download size={15} />
